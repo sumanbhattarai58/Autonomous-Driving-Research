@@ -8,16 +8,16 @@ It serves as a personal research portfolio documenting literature reviews, pract
 
 ## Repository Structure
 
-autonomous-driving-research/  
+autonomous-driving-research  
 |  
-|--README.md     
-|--literature-review    
-│  |--README.md    
-│  |--survey_deep_learning_autonomous_driving.md    
-|  |--Pictures    
-|--experiments    
-│  |--README.md    
-│  |--Experiment1_ImageSegmentation    
+|--README.md  
+|--literature-review  
+│  |--README.md  
+│  |--survey_deep_learning_autonomous_driving.md  
+|  |--Pictures  
+|--experiments  
+│  |--README.md  
+│  |--Experiment1_ImageSegmentation  
 │  
 
 ---
