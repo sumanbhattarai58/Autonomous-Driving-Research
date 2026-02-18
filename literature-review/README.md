@@ -9,10 +9,9 @@ The goal is to understand state-of-the-art methods, identify system limitations,
 ## Papers Reviewed
 
 ### 1. A Survey of Deep Learning Techniques for Autonomous Driving
-- File: `survey`
+- [Survey Paper File](survey_deep_learning_autonomous_driving.md)
 - Focus: Technical review of deep learning architectures (modular vs. End2End) and core methodologies (CNN, RNN, DRL) for vehicle perception, localization, planning, and control.
  Evaluation of critical implementation challenges regarding functional safety, public training datasets, and computational .
-
 
 ---
 
