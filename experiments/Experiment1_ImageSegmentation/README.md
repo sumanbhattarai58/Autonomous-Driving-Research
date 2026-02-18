@@ -42,31 +42,31 @@ Solution: Merged to 13 classes for autonomous driving:
 
 ### 2. Training Pipeline
 
-**Models:** U-Net
-**Encoder** ResNet50
-**Loss:** Weighted Cross-Entropy (median frequency balancing)
-**Augmentation:** Flip, rotate, color jitter, resize
-**Optimization:** Adam/AdamW with ReduceLROnPlateau/Cosine scheduler
-**Early Stopping:** Patience-based validation monitoring(LR_PATIENCE= 5 ,LR_FACTOR = 0.5)
+**Models:** U-Net   
+**Encoder** ResNet50   
+**Loss:** Weighted Cross-Entropy (median frequency balancing)   
+**Augmentation:** Flip, rotate, color jitter, resize   
+**Optimization:** Adam/AdamW with ReduceLROnPlateau/Cosine scheduler   
+**Early Stopping:** Patience-based validation monitoring(LR_PATIENCE= 5 ,LR_FACTOR = 0.5)   
 
 ### 3. Hyperparameter Tuning
 **Random search over:**
 
-**Learning rate:** [1e-5, 5e-4, 1e-3]
-**Batch size:** [4, 8]
-**Optimizer:** [Adam, AdamW]
-**Weight decay:** [1e-5, 1e-4, 5e-4]
-**LR scheduler:** [reduce_on_plateau, cosine]
+**Learning rate:** [1e-5, 5e-4, 1e-3]  
+**Batch size:** [4, 8]  
+**Optimizer:** [Adam, AdamW]  
+**Weight decay:** [1e-5, 1e-4, 5e-4]  
+**LR scheduler:** [reduce_on_plateau, cosine]  
 
 
 ### 4. Evaluation
 
-Mean IoU and per-class IoU metrics
-Prediction visualization (image, ground truth, prediction)
-Inference speed (FPS) measurement
-MLflow experiment tracking and comparison
+Mean IoU and per-class IoU metrics  
+Prediction visualization (image, ground truth, prediction)  
+Inference speed (FPS) measurement  
+MLflow experiment tracking and comparison  
 
 ## Results
-[IoU metrics](./UnetResults/test_results.txt)
-[Prediction visulization](./UnetResults/predictions_visualization.png)
-[MLflow chart](./UnetResults/mlflow_results.csv)
+[IoU metrics](./UnetResults/test_results.txt)  
+[Prediction visulization](./UnetResults/predictions_visualization.png)  
+[MLflow chart](./UnetResults/mlflow_results.csv)  
