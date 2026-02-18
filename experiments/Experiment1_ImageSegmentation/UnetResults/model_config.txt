@@ -1,0 +1,5 @@
+Model: unet
+Encoder: resnet50
+Num Classes: 13
+Image Size: 480x640
+Val IoU: 0.6483
