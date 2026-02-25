@@ -144,7 +144,7 @@ Experiment2_Behavioralcloning/
  [model1_evaluation_metrics](Results/evaluation_metrics.txt)  
  [model2_evaluation_metrics](Nvidia_tuning/Results/evaluation_metrics.txt)  
 
--**Training checkpoints**
+- **Training checkpoints**
  [model1_best_checkpoint](Results/best_checkpoint.txt)  
  [model2_best_checkpoint](Nvidia_tuning/Results/best_checkpoint.txt)  
  [model2_best _hyperparameters](Nvidia_tuning/Results/best_hyperparams.txt)  
