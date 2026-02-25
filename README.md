@@ -10,7 +10,6 @@ It serves as a personal research portfolio documenting literature reviews, pract
 
 ```
 autonomous-driving-research/
-|
 ├── README.md
 ├── literature-review/
 |   ├── README.md
@@ -21,7 +20,7 @@ autonomous-driving-research/
     ├── README.md
     ├── Experiment1_ImageSegmentation/
     |     ├── README.md
-    ├──Experiment2_Behavioral_Cloning/
+    ├──Experiment2_BehavioralCloning/
     |     ├── README.md
   
 ```
