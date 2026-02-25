@@ -1,0 +1,1 @@
+Nvidia_tuning/checkpoints\model_epoch20_loss0.1593.pt

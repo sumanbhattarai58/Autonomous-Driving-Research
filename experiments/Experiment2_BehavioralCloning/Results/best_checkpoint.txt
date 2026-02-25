@@ -1,0 +1,1 @@
+checkpoints\model_epoch18_loss0.2074.pt

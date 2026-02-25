@@ -1,0 +1,8 @@
+datasets
+venv
+__pycache__/
+*.pyc
+checkpoints/
+*.pth
+*.pt
+*.ckpt

@@ -1,0 +1,11 @@
+Image, Actual, Predicted, Error
+center_2022_04_10_12_26_49_714.jpg | Actual: 0.0000 | Predicted: 0.2044 | Error: 0.2044
+center_2022_04_10_12_26_25_580.jpg | Actual: 0.0000 | Predicted: 0.1784 | Error: 0.1784
+center_2022_04_10_12_27_05_478.jpg | Actual: 0.0000 | Predicted: 0.1059 | Error: 0.1059
+center_2022_04_10_12_26_03_868.jpg | Actual: 0.0000 | Predicted: 0.2497 | Error: 0.2497
+center_2022_04_10_12_29_02_711.jpg | Actual: 0.0000 | Predicted: 0.2216 | Error: 0.2216
+center_2022_04_10_12_26_14_999.jpg | Actual: 0.0000 | Predicted: 0.1580 | Error: 0.1580
+center_2022_04_10_12_27_21_243.jpg | Actual: 0.0000 | Predicted: 0.3013 | Error: 0.3013
+center_2022_04_10_12_26_22_661.jpg | Actual: -0.1000 | Predicted: 0.1957 | Error: 0.2957
+center_2022_04_10_12_28_26_531.jpg | Actual: 0.0000 | Predicted: 0.1083 | Error: 0.1083
+center_2022_04_10_12_25_56_735.jpg | Actual: 0.5500 | Predicted: 0.3281 | Error: 0.2219
