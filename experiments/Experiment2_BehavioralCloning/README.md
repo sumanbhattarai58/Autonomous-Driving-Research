@@ -124,27 +124,27 @@ Experiment2_Behavioralcloning/
 ---
 
 ## Results
-- **Loss metrics (MSE, RMSE, MAE)**
+- **Loss metrics (MSE, RMSE, MAE)**  
  [model1_losses](Results/losses.txt)  
  [model2_losses](Nvidia_tuning/Results/losses.txt)  
 
- - **Inference on test images**
+ - **Inference on test images**  
   [model1_predictions](Results/inference_result.png) [Prediction_Value](Results/inference_result.txt)  
   [model2_predictions](Nvidia_tuning/Results/inference_result.png) [Prediction_Value](Nvidia_tuning/Results/inference_result.txt)  
 
-- **Predicted vs actual steering angle visualization**
+- **Predicted vs actual steering angle visualization**  
  [model1_steering_angle_visualization](Results/evaluation_plot.png)  
  [model2_steering_angle_visualization](Nvidia_tuning/Results/evaluation_plot.png)  
 
-- **Training and validation loss curves**
+- **Training and validation loss curves**  
  [model1_training_validation_losses](Results/training_validation_loss.png)  
  [model2_training_validation_losses](Nvidia_tuning/Results/training_validation_loss.png)  
 
-- **Evaluation metrics**
+- **Evaluation metrics**  
  [model1_evaluation_metrics](Results/evaluation_metrics.txt)  
  [model2_evaluation_metrics](Nvidia_tuning/Results/evaluation_metrics.txt)  
 
-- **Training checkpoints**
+- **Training checkpoints**  
  [model1_best_checkpoint](Results/best_checkpoint.txt)  
  [model2_best_checkpoint](Nvidia_tuning/Results/best_checkpoint.txt)  
  [model2_best _hyperparameters](Nvidia_tuning/Results/best_hyperparams.txt)  
